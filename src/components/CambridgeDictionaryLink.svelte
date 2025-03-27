@@ -8,7 +8,7 @@
   target="_blank"
   rel="noopener noreferrer"
   class="cambridge-dict-link"
-  title="Look up '{word}' in Cambridge Dictionary test"
+  title="Look up '{word}' in Cambridge Dictionary"
 >
   📚
 </a>
