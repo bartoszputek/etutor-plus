@@ -2,7 +2,7 @@
   "name": "etutor-plus",
   "version": "0.0.2",
   "description": "Enhances eTutor learning experience by adding low-hanging fruits to the eTutor platform.",
-  "author": "CKSource (http://cksource.com/)",
+  "author": "Bartosz Putek",
   "license": "MIT",
   "type": "module",
   "scripts": {
